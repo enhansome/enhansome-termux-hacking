@@ -1,7 +1,4859 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLists",
+          "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3482588,
+            "language": "PHP",
+            "last_commit": "2026-08-24T11:12:01Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 73037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitmproxy",
+          "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519832,
+            "language": "Python",
+            "last_commit": "2026-08-22T09:33:08Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlmap",
+          "description": "Automatic SQL injection and database takeover tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4793392,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:35:59Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 38254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashcat",
+          "description": "World's fastest and most advanced password recovery utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47409672,
+            "language": "C",
+            "last_commit": "2026-08-24T10:32:25Z",
+            "owner": "hashcat",
+            "repo": "hashcat",
+            "stars": 26609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "masscan",
+          "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11715753,
+            "language": "C",
+            "last_commit": "2026-04-23T20:34:38Z",
+            "owner": "robertdavidgraham",
+            "repo": "masscan",
+            "stars": 25944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bettercap",
+          "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116576783,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:47:49Z",
+            "owner": "bettercap",
+            "repo": "bettercap",
+            "stars": 19853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theHarvester",
+          "description": "E-mails, subdomains and names Harvester - OSINT .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212922,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:20:49Z",
+            "owner": "laramies",
+            "repo": "theHarvester",
+            "stars": 17179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lynis",
+          "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15078635,
+            "language": "Shell",
+            "last_commit": "2026-08-05T12:12:12Z",
+            "owner": "CISOfy",
+            "repo": "lynis",
+            "stars": 16218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zaproxy",
+          "description": "The OWASP ZAP core project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36817565,
+            "language": "Java",
+            "last_commit": "2026-08-21T13:16:22Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 15675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evilginx",
+          "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140412864,
+            "language": "Go",
+            "last_commit": "2026-06-10T12:12:03Z",
+            "owner": "kgretzky",
+            "repo": "evilginx2",
+            "stars": 15526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evilginx2",
+          "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140412864,
+            "language": "Go",
+            "last_commit": "2026-06-10T12:12:03Z",
+            "owner": "kgretzky",
+            "repo": "evilginx2",
+            "stars": 15526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "social-engineer-toolkit",
+          "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7391261,
+            "language": "Python",
+            "last_commit": "2026-06-04T21:23:34Z",
+            "owner": "trustedsec",
+            "repo": "social-engineer-toolkit",
+            "stars": 15227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSStrike",
+          "description": "Most advanced XSS scanner..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95419982,
+            "language": "Python",
+            "last_commit": "2025-04-26T08:47:06Z",
+            "owner": "s0md3v",
+            "repo": "XSStrike",
+            "stars": 15149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSStrike",
+          "description": "Most advanced XSS scanner..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95419982,
+            "language": "Python",
+            "last_commit": "2025-04-26T08:47:06Z",
+            "owner": "s0md3v",
+            "repo": "XSStrike",
+            "stars": 15149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifiphisher",
+          "description": "The Rogue Access Point Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24499174,
+            "language": "Python",
+            "last_commit": "2026-05-22T17:42:02Z",
+            "owner": "wifiphisher",
+            "repo": "wifiphisher",
+            "stars": 14781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binwalk",
+          "description": "Firmware Analysis Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14434734,
+            "language": "Rust",
+            "last_commit": "2026-08-11T15:27:34Z",
+            "owner": "ReFirmLabs",
+            "repo": "binwalk",
+            "stars": 14264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gobuster",
+          "description": "Directory/File, DNS and VHost busting tool written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26639347,
+            "language": "Go",
+            "last_commit": "2026-08-17T22:02:56Z",
+            "owner": "OJ",
+            "repo": "gobuster",
+            "stars": 14020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "routersploit",
+          "description": "Exploitation Framework for Embedded Devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55058317,
+            "language": "Python",
+            "last_commit": "2026-05-05T14:02:26Z",
+            "owner": "threat9",
+            "repo": "routersploit",
+            "stars": 13218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerSploit",
+          "description": "PowerSploit - A PowerShell Post-Exploitation Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4456049,
+            "language": "PowerShell",
+            "last_commit": "2020-08-17T23:19:49Z",
+            "owner": "PowerShellMafia",
+            "repo": "PowerSploit",
+            "stars": 13086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fsociety",
+          "description": "fsociety Hacking Tools Pack – A Penetration Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67095586,
+            "language": "Python",
+            "last_commit": "2026-07-21T05:22:53Z",
+            "owner": "Manisso",
+            "repo": "fsociety",
+            "stars": 12268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheFatRat",
+          "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection ..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64060314,
+            "language": "C",
+            "last_commit": "2024-03-17T12:09:38Z",
+            "owner": "screetsec",
+            "repo": "TheFatRat",
+            "stars": 11435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublist3r",
+          "description": "Fast subdomains enumeration tool for penetration testers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48010677,
+            "language": "Python",
+            "last_commit": "2024-08-02T00:00:30Z",
+            "owner": "aboul3la",
+            "repo": "Sublist3r",
+            "stars": 11024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beef",
+          "description": "The Browser Exploitation Framework Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2833881,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T13:14:06Z",
+            "owner": "beefproject",
+            "repo": "beef",
+            "stars": 10982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sn1per",
+          "description": "Automated pentest framework for offensive security experts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42008209,
+            "language": "Shell",
+            "last_commit": "2026-07-04T21:10:21Z",
+            "owner": "1N3",
+            "repo": "Sn1per",
+            "stars": 10801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nikto",
+          "description": "Nikto web server scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6836299,
+            "language": "Perl",
+            "last_commit": "2026-08-18T04:01:08Z",
+            "owner": "sullo",
+            "repo": "nikto",
+            "stars": 10677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nishang",
+          "description": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19939837,
+            "language": "PowerShell",
+            "last_commit": "2024-04-25T19:39:44Z",
+            "owner": "samratashok",
+            "repo": "nishang",
+            "stars": 10064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seeker",
+          "description": "Accurately Locate Smartphones using Social Engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141040549,
+            "language": "CSS",
+            "last_commit": "2026-06-19T04:34:58Z",
+            "owner": "thewhiteh4t",
+            "repo": "seeker",
+            "stars": 9931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wpscan",
+          "description": "WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4994614,
+            "language": "Ruby",
+            "last_commit": "2026-08-20T09:03:17Z",
+            "owner": "wpscanteam",
+            "repo": "wpscan",
+            "stars": 9735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trape",
+          "description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109004193,
+            "language": "Python",
+            "last_commit": "2024-06-20T19:04:00Z",
+            "owner": "jofpin",
+            "repo": "trape",
+            "stars": 8977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capstone",
+          "description": "Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14735429,
+            "language": "C",
+            "last_commit": "2026-08-22T12:04:42Z",
+            "owner": "capstone-engine",
+            "repo": "capstone",
+            "stars": 8972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifite2",
+          "description": "Rewrite of the popular wireless network auditor, \"wifite\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36545885,
+            "language": "Python",
+            "last_commit": "2026-08-05T17:30:50Z",
+            "owner": "derv82",
+            "repo": "wifite2",
+            "stars": 8082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "volatility",
+          "description": "An advanced memory forensics framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 19114225,
+            "language": "Python",
+            "last_commit": "2025-05-16T13:40:55Z",
+            "owner": "volatilityfoundation",
+            "repo": "volatility",
+            "stars": 8060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airgeddon",
+          "description": "This is a multi-use bash script for Linux systems to audit wireless networks..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54193621,
+            "language": "Shell",
+            "last_commit": "2026-08-08T17:16:27Z",
+            "owner": "v1s1t0r1sh3r3",
+            "repo": "airgeddon",
+            "stars": 7941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Empire",
+          "description": "Empire is a PowerShell and Python post-exploitation agent..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40262072,
+            "language": "PowerShell",
+            "last_commit": "2020-01-19T22:50:59Z",
+            "owner": "EmpireProject",
+            "repo": "Empire",
+            "stars": 7863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exploitdb",
+          "description": "The official Exploit Database repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 14902556,
+            "language": null,
+            "last_commit": "2022-11-10T19:35:03Z",
+            "owner": "offensive-security",
+            "repo": "exploitdb",
+            "stars": 7858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatWeb",
+          "description": "Next generation web scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950915,
+            "language": "Ruby",
+            "last_commit": "2026-04-02T15:43:24Z",
+            "owner": "urbanadventurer",
+            "repo": "WhatWeb",
+            "stars": 6796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faraday",
+          "description": "Collaborative Penetration Test and Vulnerability Management Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14160461,
+            "language": "Python",
+            "last_commit": "2026-08-20T14:02:24Z",
+            "owner": "infobyte",
+            "repo": "faraday",
+            "stars": 6692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bleachbit",
+          "description": "BleachBit system cleaner for Windows and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17578592,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:18:56Z",
+            "owner": "bleachbit",
+            "repo": "bleachbit",
+            "stars": 6680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wfuzz",
+          "description": "Web application fuzzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25605151,
+            "language": "Python",
+            "last_commit": "2026-01-21T15:31:40Z",
+            "owner": "xmendez",
+            "repo": "wfuzz",
+            "stars": 6557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responder",
+          "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67535141,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:28:34Z",
+            "owner": "lgandx",
+            "repo": "Responder",
+            "stars": 6553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wafw00f",
+          "description": "WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19788473,
+            "language": "Python",
+            "last_commit": "2026-04-19T12:47:41Z",
+            "owner": "EnableSecurity",
+            "repo": "wafw00f",
+            "stars": 6524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cupp",
+          "description": "Common User Passwords Profiler (CUPP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4241751,
+            "language": "Python",
+            "last_commit": "2026-07-17T23:57:44Z",
+            "owner": "Mebus",
+            "repo": "cupp",
+            "stars": 6504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuckoo",
+          "description": "Cuckoo Sandbox is an automated dynamic malware analysis system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2341302,
+            "language": "JavaScript",
+            "last_commit": "2022-05-03T16:17:48Z",
+            "owner": "cuckoosandbox",
+            "repo": "cuckoo",
+            "stars": 5963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluxion",
+          "description": "Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89778161,
+            "language": "HTML",
+            "last_commit": "2026-07-21T17:07:42Z",
+            "owner": "FluxionNetwork",
+            "repo": "fluxion",
+            "stars": 5907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recon-ng",
+          "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178254323,
+            "language": "Python",
+            "last_commit": "2024-11-01T20:11:51Z",
+            "owner": "lanmaster53",
+            "repo": "recon-ng",
+            "stars": 5866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EyeWitness",
+          "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17216857,
+            "language": "Python",
+            "last_commit": "2026-01-05T17:58:49Z",
+            "owner": "RedSiege",
+            "repo": "EyeWitness",
+            "stars": 5825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commix",
+          "description": "Automated All-in-One OS command injection and exploitation tool..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32572504,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:25:47Z",
+            "owner": "commixproject",
+            "repo": "commix",
+            "stars": 5821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webdav",
+          "description": "Simple Go WebDAV server..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99202994,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:53:57Z",
+            "owner": "hacdias",
+            "repo": "webdav",
+            "stars": 5798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSploit",
+          "description": "Automated Mass Exploiter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119572063,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:34:12Z",
+            "owner": "NullArray",
+            "repo": "AutoSploit",
+            "stars": 5251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EagleEye",
+          "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121859737,
+            "language": "Python",
+            "last_commit": "2024-04-25T16:20:23Z",
+            "owner": "ThoughtfulDev",
+            "repo": "EagleEye",
+            "stars": 5194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "w3af",
+          "description": "w3af: web application attack and audit framework, the open source web vulnerability scanner..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2304783,
+            "language": "Python",
+            "last_commit": "2023-02-22T06:05:59Z",
+            "owner": "andresriancho",
+            "repo": "w3af",
+            "stars": 4901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocialFish",
+          "description": "Educational Phishing Tool & Information Collector .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119437761,
+            "language": "CSS",
+            "last_commit": "2026-05-20T13:21:12Z",
+            "owner": "UndeadSec",
+            "repo": "SocialFish",
+            "stars": 4849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openvas",
+          "description": "Open Vulnerability Assessment Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118424053,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:33:37Z",
+            "owner": "greenbone",
+            "repo": "openvas-scanner",
+            "stars": 4789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lscript",
+          "description": "The LAZY script will make your life easier, and of course faster..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 88638188,
+            "language": "Shell",
+            "last_commit": "2021-08-28T14:04:20Z",
+            "owner": "arismelachroinos",
+            "repo": "lscript",
+            "stars": 4330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pwnat",
+          "description": "The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5365511,
+            "language": "C",
+            "last_commit": "2025-12-26T23:52:15Z",
+            "owner": "samyk",
+            "repo": "pwnat",
+            "stars": 3916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "findomain",
+          "description": "The fastest and cross-platform subdomain enumerator, don't waste your time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181352945,
+            "language": "Rust",
+            "last_commit": "2026-07-28T13:06:33Z",
+            "owner": "Findomain",
+            "repo": "Findomain",
+            "stars": 3785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RED_HAWK",
+          "description": "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93982796,
+            "language": "PHP",
+            "last_commit": "2024-07-31T15:33:36Z",
+            "owner": "Tuhinshubhra",
+            "repo": "RED_HAWK",
+            "stars": 3748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazymux",
+          "description": "termux tool installer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106090494,
+            "language": "Python",
+            "last_commit": "2024-11-01T04:13:31Z",
+            "owner": "Gameye98",
+            "repo": "Lazymux",
+            "stars": 3696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stitch",
+          "description": "Python Remote Administration Tool (RAT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78166174,
+            "language": "Python",
+            "last_commit": "2024-01-04T20:02:51Z",
+            "owner": "nathanlopez",
+            "repo": "Stitch",
+            "stars": 3658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydictor",
+          "description": "A powerful and useful hacker dictionary builder for a brute-force attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65889272,
+            "language": "Python",
+            "last_commit": "2024-12-05T02:45:11Z",
+            "owner": "LandGrey",
+            "repo": "pydictor",
+            "stars": 3651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifite",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3238349,
+            "language": "Python",
+            "last_commit": "2022-09-08T16:32:44Z",
+            "owner": "derv82",
+            "repo": "wifite",
+            "stars": 3650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weevely3",
+          "description": "Weaponized web shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24259882,
+            "language": "Python",
+            "last_commit": "2025-10-01T12:01:49Z",
+            "owner": "epinna",
+            "repo": "weevely3",
+            "stars": 3531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the-backdoor-factory",
+          "description": "Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10372628,
+            "language": "Python",
+            "last_commit": "2023-10-30T14:13:32Z",
+            "owner": "secretsquirrel",
+            "repo": "the-backdoor-factory",
+            "stars": 3439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qark",
+          "description": "Tool to look for several security related Android application vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38121886,
+            "language": "Python",
+            "last_commit": "2024-01-16T08:17:35Z",
+            "owner": "linkedin",
+            "repo": "qark",
+            "stars": 3382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuxploider",
+          "description": "File upload vulnerability scanner and exploitation tool..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97217417,
+            "language": "Python",
+            "last_commit": "2025-05-08T09:00:36Z",
+            "owner": "almandin",
+            "repo": "fuxploider",
+            "stars": 3328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WiFi-Pumpkin",
+          "description": "Framework for Rogue Wi-Fi Access Point Attack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38141050,
+            "language": "Python",
+            "last_commit": "2020-04-18T19:32:52Z",
+            "owner": "P0cL4bs",
+            "repo": "WiFi-Pumpkin-deprecated",
+            "stars": 3155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nethunter-In-Termux",
+          "description": "This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102099383,
+            "language": "Shell",
+            "last_commit": "2024-12-07T06:53:24Z",
+            "owner": "Hax4us",
+            "repo": "Nethunter-In-Termux",
+            "stars": 3123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsrecon",
+          "description": "DNS Enumeration Script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173123,
+            "language": "Python",
+            "last_commit": "2026-08-17T05:51:22Z",
+            "owner": "darkoperator",
+            "repo": "dnsrecon",
+            "stars": 3059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHAOS",
+          "description": ":fire: CHAOS is a PoC that allow generate payloads and control remote operating systems..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96861086,
+            "language": "Go",
+            "last_commit": "2024-10-26T18:02:45Z",
+            "owner": "tiagorlampert",
+            "repo": "CHAOS",
+            "stars": 2829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slowloris",
+          "description": "Low bandwidth DoS tool. Slowloris rewrite in Python..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34606437,
+            "language": "Python",
+            "last_commit": "2024-06-01T10:39:30Z",
+            "owner": "gkbrk",
+            "repo": "slowloris",
+            "stars": 2820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifi-hacker",
+          "description": "Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54164782,
+            "language": "Shell",
+            "last_commit": "2024-01-25T16:41:09Z",
+            "owner": "esc0rtd3w",
+            "repo": "wifi-hacker",
+            "stars": 2798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CeWL",
+          "description": "CeWL is a Custom Word List Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56852742,
+            "language": "Ruby",
+            "last_commit": "2026-06-24T10:13:52Z",
+            "owner": "digininja",
+            "repo": "CeWL",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kickthemout",
+          "description": "💤 Kick devices off your network by performing an ARP Spoof attack..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75845481,
+            "language": "Python",
+            "last_commit": "2023-02-27T09:10:28Z",
+            "owner": "k4m4",
+            "repo": "kickthemout",
+            "stars": 2673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Th3inspector",
+          "description": "Th3Inspector 🕵️ Best Tool For Information Gathering 🔎.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121825520,
+            "language": "Perl",
+            "last_commit": "2025-04-21T08:23:07Z",
+            "owner": "Moham3dRiahi",
+            "repo": "Th3inspector",
+            "stars": 2661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMSeeK",
+          "description": "CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137285153,
+            "language": "Python",
+            "last_commit": "2026-07-17T19:36:21Z",
+            "owner": "Tuhinshubhra",
+            "repo": "CMSeeK",
+            "stars": 2571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eaphammer",
+          "description": "Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80882788,
+            "language": "C",
+            "last_commit": "2024-09-22T22:40:38Z",
+            "owner": "s0lst1c3",
+            "repo": "eaphammer",
+            "stars": 2551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brutespray",
+          "description": "Brute-Forcing from Nmap output - Automatically attempts default creds on found services..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87335524,
+            "language": "Go",
+            "last_commit": "2026-08-20T02:34:06Z",
+            "owner": "x90skysn3k",
+            "repo": "brutespray",
+            "stars": 2523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasY_HaCk",
+          "description": "Hack the World using Termux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148261032,
+            "language": "Python",
+            "last_commit": "2025-06-03T18:10:32Z",
+            "owner": "sabri-zaki",
+            "repo": "EasY_HaCk",
+            "stars": 2470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Striker",
+          "description": "Striker is an offensive information and vulnerability scanner..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108814404,
+            "language": "Python",
+            "last_commit": "2023-06-04T20:15:11Z",
+            "owner": "s0md3v",
+            "repo": "Striker",
+            "stars": 2341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Striker",
+          "description": "Striker is an offensive information and vulnerability scanner..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108814404,
+            "language": "Python",
+            "last_commit": "2023-06-04T20:15:11Z",
+            "owner": "s0md3v",
+            "repo": "Striker",
+            "stars": 2341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BruteX",
+          "description": "Automatically brute force all services running on a target..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36692681,
+            "language": "Shell",
+            "last_commit": "2024-08-18T23:18:37Z",
+            "owner": "1N3",
+            "repo": "BruteX",
+            "stars": 2298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xerosploit",
+          "description": "Efficient and advanced man in the middle framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64552869,
+            "language": "Ruby",
+            "last_commit": "2023-03-23T10:31:26Z",
+            "owner": "LionSec",
+            "repo": "xerosploit",
+            "stars": 2199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hacktronian",
+          "description": "All in One Hacking Tool for Linux & Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118432356,
+            "language": "Python",
+            "last_commit": "2023-11-18T02:35:20Z",
+            "owner": "thehackingsage",
+            "repo": "hacktronian",
+            "stars": 2195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReconDog",
+          "description": "Reconnaissance Swiss Army Knife.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94127025,
+            "language": "Python",
+            "last_commit": "2021-01-26T05:17:13Z",
+            "owner": "s0md3v",
+            "repo": "ReconDog",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sslstrip",
+          "description": "A tool for exploiting Moxie Marlinspike's SSL \"stripping\" attack..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1655925,
+            "language": "Python",
+            "last_commit": "2021-05-29T01:53:12Z",
+            "owner": "moxie0",
+            "repo": "sslstrip",
+            "stars": 2073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smbmap",
+          "description": "SMBMap is a handy SMB enumeration tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32325855,
+            "language": "Python",
+            "last_commit": "2026-01-06T20:11:06Z",
+            "owner": "ShawnDEvans",
+            "repo": "smbmap",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocialBox",
+          "description": "SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150230650,
+            "language": "Shell",
+            "last_commit": "2023-11-09T06:20:39Z",
+            "owner": "Cyb0r9",
+            "repo": "SocialBox",
+            "stars": 2032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADB-Toolkit",
+          "description": "ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175850447,
+            "language": "Shell",
+            "last_commit": "2024-08-18T20:56:06Z",
+            "owner": "ASHWIN990",
+            "repo": "ADB-Toolkit",
+            "stars": 2016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reaver-wps-fork-t6x",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33783491,
+            "language": "C",
+            "last_commit": "2025-10-31T19:12:03Z",
+            "owner": "t6x",
+            "repo": "reaver-wps-fork-t6x",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LFISuite",
+          "description": "Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93862304,
+            "language": "Python",
+            "last_commit": "2022-04-13T04:04:36Z",
+            "owner": "D35m0nd142",
+            "repo": "LFISuite",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hash-Buster",
+          "description": "Crack hashes in seconds..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96134987,
+            "language": "Python",
+            "last_commit": "2024-12-10T13:50:26Z",
+            "owner": "s0md3v",
+            "repo": "Hash-Buster",
+            "stars": 1892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hash-Buster",
+          "description": "Crack hashes in seconds..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96134987,
+            "language": "Python",
+            "last_commit": "2024-12-10T13:50:26Z",
+            "owner": "s0md3v",
+            "repo": "Hash-Buster",
+            "stars": 1892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Findsploit",
+          "description": "Find exploits in local and online databases instantly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32337400,
+            "language": "Shell",
+            "last_commit": "2021-09-27T01:43:24Z",
+            "owner": "1N3",
+            "repo": "Findsploit",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hammer",
+          "description": "Hammer DDos Script - Python 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16582435,
+            "language": "Python",
+            "last_commit": "2025-08-01T03:26:22Z",
+            "owner": "cyweb",
+            "repo": "hammer",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fierce",
+          "description": "A DNS reconnaissance tool for locating non-contiguous IP space..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57169020,
+            "language": "Python",
+            "last_commit": "2024-08-28T14:35:58Z",
+            "owner": "mschwager",
+            "repo": "fierce",
+            "stars": 1805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noisy",
+          "description": "Simple random DNS, HTTP/S internet traffic noise generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139170558,
+            "language": "Python",
+            "last_commit": "2023-11-25T10:14:54Z",
+            "owner": "1tayH",
+            "repo": "noisy",
+            "stars": 1778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsql-injection",
+          "description": "jSQL Injection is a Java application for automatic SQL database injection..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5099917,
+            "language": "Java",
+            "last_commit": "2026-08-08T05:19:28Z",
+            "owner": "ron190",
+            "repo": "jsql-injection",
+            "stars": 1776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EggShell",
+          "description": "iOS/macOS/Linux Remote Administration Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38445459,
+            "language": "Objective-C",
+            "last_commit": "2021-03-25T22:04:52Z",
+            "owner": "lucasjacks0n",
+            "repo": "EggShell",
+            "stars": 1769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAttacker",
+          "description": "X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109823996,
+            "language": "Perl",
+            "last_commit": "2023-10-08T21:45:25Z",
+            "owner": "Moham3dRiahi",
+            "repo": "XAttacker",
+            "stars": 1757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avet",
+          "description": "AntiVirus Evasion Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80290293,
+            "language": "Shell",
+            "last_commit": "2025-04-23T21:31:39Z",
+            "owner": "govolution",
+            "repo": "avet",
+            "stars": 1755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixiewps",
+          "description": "An offline Wi-Fi Protected Setup brute-force utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33315835,
+            "language": "C",
+            "last_commit": "2026-04-17T18:29:11Z",
+            "owner": "wiire-a",
+            "repo": "pixiewps",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rdpy",
+          "description": "Remote Desktop Protocol in Twisted Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13526596,
+            "language": "Python",
+            "last_commit": "2021-06-28T18:46:07Z",
+            "owner": "citronneur",
+            "repo": "rdpy",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slowhttptest",
+          "description": "Application Layer DoS attack simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32239287,
+            "language": "C++",
+            "last_commit": "2025-06-26T21:12:32Z",
+            "owner": "shekyan",
+            "repo": "slowhttptest",
+            "stars": 1643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winpayloads",
+          "description": "Undetectable Windows Payload Generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43946043,
+            "language": "Python",
+            "last_commit": "2022-11-08T08:14:23Z",
+            "owner": "nccgroup",
+            "repo": "Winpayloads",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fbht",
+          "description": "Facebook Hacking Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15218683,
+            "language": "Python",
+            "last_commit": "2024-05-09T02:29:29Z",
+            "owner": "chinoogawa",
+            "repo": "fbht",
+            "stars": 1591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fern-wifi-cracker",
+          "description": "Automatically exported from code.google.com/p/fern-wifi-cracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32723765,
+            "language": "Python",
+            "last_commit": "2026-04-11T07:55:17Z",
+            "owner": "savio-code",
+            "repo": "fern-wifi-cracker",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATSCAN",
+          "description": "Advanced dork Search & Mass Exploit Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43642797,
+            "language": "Perl",
+            "last_commit": "2024-08-10T19:25:05Z",
+            "owner": "AlisamTechnology",
+            "repo": "ATSCAN",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QRLJacking",
+          "description": "QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63108191,
+            "language": "Python",
+            "last_commit": "2025-08-07T21:07:19Z",
+            "owner": "OWASP",
+            "repo": "QRLJacking",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crowbar",
+          "description": "Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24629188,
+            "language": "Python",
+            "last_commit": "2023-12-19T20:57:36Z",
+            "owner": "galkan",
+            "repo": "crowbar",
+            "stars": 1531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zarp",
+          "description": "Network Attack Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5831663,
+            "language": "Python",
+            "last_commit": "2023-05-01T20:18:05Z",
+            "owner": "hatRiot",
+            "repo": "zarp",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr0p1t-Framework",
+          "description": "A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 81683268,
+            "language": "Python",
+            "last_commit": "2018-11-03T19:00:12Z",
+            "owner": "D4Vinci",
+            "repo": "Dr0p1t-Framework",
+            "stars": 1472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoldenEye",
+          "description": "GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 6330336,
+            "language": "Python",
+            "last_commit": "2023-11-16T05:22:00Z",
+            "owner": "jseidl",
+            "repo": "GoldenEye",
+            "stars": 1468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gasmask",
+          "description": "Information gathering tool - OSINT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116033360,
+            "language": "Python",
+            "last_commit": "2021-06-11T08:13:53Z",
+            "owner": "twelvesec",
+            "repo": "gasmask",
+            "stars": 1463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsser",
+          "description": "Cross Site \"Scripter\" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7184441,
+            "language": "Python",
+            "last_commit": "2026-07-09T17:33:34Z",
+            "owner": "epsylon",
+            "repo": "xsser",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peepdf",
+          "description": "Powerful Python tool to analyze PDF documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33893135,
+            "language": "Python",
+            "last_commit": "2024-08-19T14:03:04Z",
+            "owner": "jesparza",
+            "repo": "peepdf",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demiguise",
+          "description": "HTA encryption tool for RedTeams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98401807,
+            "language": "Python",
+            "last_commit": "2022-11-09T08:12:25Z",
+            "owner": "nccgroup",
+            "repo": "demiguise",
+            "stars": 1429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mfoc",
+          "description": "Mifare Classic Offline Cracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32228094,
+            "language": "C",
+            "last_commit": "2024-07-17T18:25:08Z",
+            "owner": "nfc-tools",
+            "repo": "mfoc",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DKMC",
+          "description": "DKMC - Dont kill my cat - Malicious payload evasion tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 75586196,
+            "language": "Python",
+            "last_commit": "2020-07-20T03:36:56Z",
+            "owner": "Mr-Un1k0d3r",
+            "repo": "DKMC",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulk_extractor",
+          "description": "This is the development tree. For downloads please see:.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3914697,
+            "language": "C++",
+            "last_commit": "2026-08-18T02:21:24Z",
+            "owner": "simsong",
+            "repo": "bulk_extractor",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enum4linux",
+          "description": "enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40024918,
+            "language": "Perl",
+            "last_commit": "2026-06-12T08:55:21Z",
+            "owner": "CiscoCXSecurity",
+            "repo": "enum4linux",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CredSniper",
+          "description": "CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108560195,
+            "language": "HTML",
+            "last_commit": "2020-05-22T16:31:01Z",
+            "owner": "ustayready",
+            "repo": "CredSniper",
+            "stars": 1392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dracnmap",
+          "description": "Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69849809,
+            "language": "Shell",
+            "last_commit": "2018-01-23T21:45:43Z",
+            "owner": "screetsec",
+            "repo": "Dracnmap",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcat",
+          "description": "A PoC backdoor that uses Gmail as a C&C server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 36772254,
+            "language": "Python",
+            "last_commit": "2018-11-16T13:43:15Z",
+            "owner": "byt3bl33d3r",
+            "repo": "gcat",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distorm",
+          "description": "Powerful Disassembler Library For x86/AMD64.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32611857,
+            "language": "C",
+            "last_commit": "2023-10-10T22:28:13Z",
+            "owner": "gdabah",
+            "repo": "distorm",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msfpc",
+          "description": "MSFvenom Payload Creator (MSFPC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37855254,
+            "language": "Shell",
+            "last_commit": "2021-05-09T13:16:07Z",
+            "owner": "g0tmi1k",
+            "repo": "msfpc",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termux-Kali",
+          "description": "Termux-Kali - Install Kali Linux on Android using Termux!.]([",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163298842,
+            "language": "Shell",
+            "last_commit": "2023-03-27T17:01:28Z",
+            "owner": "MasterDevX",
+            "repo": "Termux-Kali",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arp-scan",
+          "description": "The ARP Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12132901,
+            "language": "C",
+            "last_commit": "2025-03-08T09:04:11Z",
+            "owner": "royhills",
+            "repo": "arp-scan",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brutal",
+          "description": "Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72500738,
+            "language": "C++",
+            "last_commit": "2020-03-09T10:27:52Z",
+            "owner": "screetsec",
+            "repo": "Brutal",
+            "stars": 1270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvilURL",
+          "description": "Generate unicode evil domains for IDN Homograph Attack and detect them..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 109164784,
+            "language": "Python",
+            "last_commit": "2026-05-19T00:29:25Z",
+            "owner": "UndeadSec",
+            "repo": "EvilURL",
+            "stars": 1267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemail-Hack",
+          "description": "python script for Hack gmail account brute force.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130222474,
+            "language": "Python",
+            "last_commit": "2026-03-30T22:30:39Z",
+            "owner": "Ha3MrX",
+            "repo": "Gemail-Hack",
+            "stars": 1229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqliv",
+          "description": "massive SQL injection vulnerability scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 37271531,
+            "language": "Python",
+            "last_commit": "2018-08-14T11:28:52Z",
+            "owner": "the-robot",
+            "repo": "sqliv",
+            "stars": 1229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroBugs_Framework",
+          "description": "AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46008702,
+            "language": "Python",
+            "last_commit": "2019-04-24T13:26:23Z",
+            "owner": "AndroBugs",
+            "repo": "AndroBugs_Framework",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSIF",
+          "description": "Open Source Information Facebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133978560,
+            "language": "Python",
+            "last_commit": "2021-03-17T14:53:52Z",
+            "owner": "0xlousie",
+            "repo": "OSIF",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thc-ipv6",
+          "description": "IPv6 attack toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32096132,
+            "language": "C",
+            "last_commit": "2026-04-21T10:02:13Z",
+            "owner": "vanhauser-thc",
+            "repo": "thc-ipv6",
+            "stars": 1196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joomscan",
+          "description": "OWASP Joomla Vulnerability Scanner Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67115839,
+            "language": "Raku",
+            "last_commit": "2024-09-11T09:08:50Z",
+            "owner": "OWASP",
+            "repo": "joomscan",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMSmap",
+          "description": "CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149565371,
+            "language": "Python",
+            "last_commit": "2021-12-01T05:48:48Z",
+            "owner": "dionach",
+            "repo": "CMSmap",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeeLogger",
+          "description": "Generate Gmail Emailing Keyloggers to Windows..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82311007,
+            "language": "Python",
+            "last_commit": "2022-12-02T19:42:41Z",
+            "owner": "4w4k3",
+            "repo": "BeeLogger",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrit",
+          "description": "The famous WPA precomputed cracker, Migrated from Google..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43035979,
+            "language": "Python",
+            "last_commit": "2026-08-21T15:48:58Z",
+            "owner": "JPaulMora",
+            "repo": "Pyrit",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multimon-ng",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4381863,
+            "language": "C",
+            "last_commit": "2026-07-27T06:21:20Z",
+            "owner": "EliasOenal",
+            "repo": "multimon-ng",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotdotpwn",
+          "description": "DotDotPwn - The Directory Traversal Fuzzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3403237,
+            "language": "Perl",
+            "last_commit": "2022-09-28T02:51:18Z",
+            "owner": "wireghoul",
+            "repo": "dotdotpwn",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mfcuk",
+          "description": "MiFare Classic Universal toolKit (MFCUK).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34197858,
+            "language": "C",
+            "last_commit": "2024-07-10T14:04:08Z",
+            "owner": "nfc-tools",
+            "repo": "mfcuk",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sipvicious",
+          "description": "SIPVicious suite is a set of security tools that can be used to audit SIP based VoIP systems..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32133566,
+            "language": "Python",
+            "last_commit": "2026-07-10T05:46:43Z",
+            "owner": "EnableSecurity",
+            "repo": "sipvicious",
+            "stars": 1097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leviathan",
+          "description": "wide range mass audit toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 89508705,
+            "language": "Python",
+            "last_commit": "2018-10-03T15:40:48Z",
+            "owner": "utkusen",
+            "repo": "leviathan",
+            "stars": 1041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunner",
+          "description": "Hacking framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93198483,
+            "language": "Python",
+            "last_commit": "2022-03-26T08:41:25Z",
+            "owner": "b3-v3r",
+            "repo": "Hunner",
+            "stars": 1012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPGeoLocation",
+          "description": "Retrieve IP Geolocation information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47875507,
+            "language": "Python",
+            "last_commit": "2024-03-12T15:26:02Z",
+            "owner": "maldevel",
+            "repo": "IPGeoLocation",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subscraper",
+          "description": "External pentest and bug bounty tool to perform subdomain enumeration through various techniques. SubScraper will provide information such as HTTP & DNS lookups to aid in potential next steps..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150627712,
+            "language": "Python",
+            "last_commit": "2024-06-19T14:26:13Z",
+            "owner": "m8sec",
+            "repo": "subscraper",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crackle",
+          "description": "Crack and decrypt BLE encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16268083,
+            "language": "C",
+            "last_commit": "2021-08-26T08:56:39Z",
+            "owner": "mikeryan",
+            "repo": "crackle",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termux-ubuntu",
+          "description": "Ubuntu chroot on termux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 77945582,
+            "language": "Shell",
+            "last_commit": "2021-11-01T10:48:52Z",
+            "owner": "Neo-Oli",
+            "repo": "termux-ubuntu",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elpscrk",
+          "description": "A Common User Passwords generator script that looks like the tool Eliot used it in Mr.Robot Series Episode 01 :D :v.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63986770,
+            "language": "Python",
+            "last_commit": "2024-10-14T19:21:24Z",
+            "owner": "D4Vinci",
+            "repo": "elpscrk",
+            "stars": 956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FakeImageExploiter",
+          "description": "Use a Fake image.jpg to exploit targets (hide known file extensions).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87234103,
+            "language": "Shell",
+            "last_commit": "2025-05-28T17:44:34Z",
+            "owner": "r00t-3xp10it",
+            "repo": "FakeImageExploiter",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazy",
+          "description": "Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF ..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105620297,
+            "language": "Python",
+            "last_commit": "2023-04-27T13:11:34Z",
+            "owner": "s0md3v",
+            "repo": "Blazy",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazy",
+          "description": "Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF ..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105620297,
+            "language": "Python",
+            "last_commit": "2023-04-27T13:11:34Z",
+            "owner": "s0md3v",
+            "repo": "Blazy",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hulk",
+          "description": "HULK DoS tool ported to Go with some additional features..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5538962,
+            "language": "Go",
+            "last_commit": "2023-08-03T15:07:43Z",
+            "owner": "grafov",
+            "repo": "hulk",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torghost",
+          "description": "Tor anonimizer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 70969045,
+            "language": "Python",
+            "last_commit": "2021-03-06T16:49:22Z",
+            "owner": "SusmithKrishnan",
+            "repo": "torghost",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "golismero",
+          "description": "GoLismero - The Web Knife.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 11762897,
+            "language": "Python",
+            "last_commit": "2020-11-03T17:33:25Z",
+            "owner": "golismero",
+            "repo": "golismero",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morpheus",
+          "description": "Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77020139,
+            "language": "HTML",
+            "last_commit": "2018-12-28T12:05:38Z",
+            "owner": "r00t-3xp10it",
+            "repo": "morpheus",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSVW",
+          "description": "Damn Small Vulnerable Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46572746,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:27:32Z",
+            "owner": "stamparm",
+            "repo": "DSVW",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCANNER-INURLBR",
+          "description": "Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22107856,
+            "language": "PHP",
+            "last_commit": "2021-04-09T03:47:04Z",
+            "owner": "googleinurl",
+            "repo": "SCANNER-INURLBR",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSSS",
+          "description": "Damn Small SQLi Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2063350,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:36:31Z",
+            "owner": "stamparm",
+            "repo": "DSSS",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReverseAPK",
+          "description": "Quickly analyze and reverse engineer Android packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97287540,
+            "language": "Shell",
+            "last_commit": "2022-12-21T17:02:54Z",
+            "owner": "1N3",
+            "repo": "ReverseAPK",
+            "stars": 869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yersinia",
+          "description": "A framework for layer 2 attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10085972,
+            "language": "C",
+            "last_commit": "2023-09-15T16:01:47Z",
+            "owner": "tomac",
+            "repo": "yersinia",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "killerbee",
+          "description": "IEEE 802.15.4/ZigBee Security Research Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32794055,
+            "language": "C",
+            "last_commit": "2023-09-12T09:39:25Z",
+            "owner": "riverloopsec",
+            "repo": "killerbee",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breacher",
+          "description": "An advanced multithreaded admin panel finder written in python..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87057618,
+            "language": "Python",
+            "last_commit": "2024-05-17T15:40:32Z",
+            "owner": "s0md3v",
+            "repo": "Breacher",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metasploit_termux",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98624914,
+            "language": "Ruby",
+            "last_commit": "2022-01-29T16:15:45Z",
+            "owner": "Hax4us",
+            "repo": "Metasploit_termux",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bbqsql",
+          "description": "SQL Injection Exploitation Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3146024,
+            "language": "Python",
+            "last_commit": "2019-01-04T21:23:20Z",
+            "owner": "CiscoCXSecurity",
+            "repo": "bbqsql",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WifiBruteCrack",
+          "description": "Program to attempt to brute force all wifi networks in range of a device, and return a possible set of networks to connect to and the password,.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11848748,
+            "language": null,
+            "last_commit": "2024-02-13T09:21:14Z",
+            "owner": "cinquemb",
+            "repo": "WifiBruteCrack",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PadBuster",
+          "description": "Automated script for performing Padding Oracle attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1600737,
+            "language": "Perl",
+            "last_commit": "2024-07-13T19:27:03Z",
+            "owner": "strozfriedberg",
+            "repo": "PadBuster",
+            "stars": 811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "killshot",
+          "description": "A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154979480,
+            "language": "Ruby",
+            "last_commit": "2025-12-07T21:57:35Z",
+            "owner": "bahaabdelwahed",
+            "repo": "killshot",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sAINT",
+          "description": ":eye: (s)AINT is a Spyware Generator for Windows systems written in Java. [Discontinued].",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 111230061,
+            "language": "Java",
+            "last_commit": "2020-04-03T14:34:34Z",
+            "owner": "tiagorlampert",
+            "repo": "sAINT",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vegile",
+          "description": "This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115978141,
+            "language": "Shell",
+            "last_commit": "2022-09-01T01:54:35Z",
+            "owner": "screetsec",
+            "repo": "Vegile",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HT-WPS-Breaker",
+          "description": "HT-WPS Breaker (High Touch WPS Breaker).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39644889,
+            "language": "Shell",
+            "last_commit": "2022-08-29T00:20:05Z",
+            "owner": "SilentGhostX",
+            "repo": "HT-WPS-Breaker",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TermuxAlpine",
+          "description": "Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123147982,
+            "language": "Shell",
+            "last_commit": "2022-03-17T15:51:10Z",
+            "owner": "Hax4us",
+            "repo": "TermuxAlpine",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTLSDR-Scanner",
+          "description": "A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7504066,
+            "language": "Python",
+            "last_commit": "2018-12-05T21:57:35Z",
+            "owner": "EarToEarOak",
+            "repo": "RTLSDR-Scanner",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onioff",
+          "description": "🌰 An onion url inspector for inspecting deep web links..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69590043,
+            "language": "Python",
+            "last_commit": "2022-08-04T13:05:58Z",
+            "owner": "k4m4",
+            "repo": "onioff",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KatanaFramework",
+          "description": "The New Hacking Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31444615,
+            "language": "Python",
+            "last_commit": "2021-04-05T02:05:59Z",
+            "owner": "PowerScript",
+            "repo": "KatanaFramework",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsenum",
+          "description": "dnsenum is a perl script that enumerates DNS information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15800479,
+            "language": "Perl",
+            "last_commit": "2019-10-08T19:58:40Z",
+            "owner": "fwaeytens",
+            "repo": "dnsenum",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shellnoob",
+          "description": "A shellcode writing toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9760917,
+            "language": "Python",
+            "last_commit": "2025-06-30T06:10:38Z",
+            "owner": "reyammer",
+            "repo": "shellnoob",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wirespy",
+          "description": "Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017)..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49780727,
+            "language": "Shell",
+            "last_commit": "2022-10-15T22:58:54Z",
+            "owner": "aress31",
+            "repo": "wirespy",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpresscan",
+          "description": "WPScan rewritten in Python + some WPSeku ideas.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 82331478,
+            "language": "Python",
+            "last_commit": "2021-06-04T20:51:58Z",
+            "owner": "swisskyrepo",
+            "repo": "Wordpresscan",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sslyze",
+          "description": "Current development of SSLyze now takes place on a separate repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4950184,
+            "language": "Python",
+            "last_commit": "2015-08-27T18:49:08Z",
+            "owner": "iSECPartners",
+            "repo": "sslyze",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4nonimizer",
+          "description": "A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70051637,
+            "language": "Shell",
+            "last_commit": "2022-02-09T11:41:10Z",
+            "owner": "Hackplayers",
+            "repo": "4nonimizer",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kwetza",
+          "description": "Python script to inject existing Android applications with a Meterpreter payload..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68930344,
+            "language": "Smali",
+            "last_commit": "2023-07-21T16:30:40Z",
+            "owner": "sensepost",
+            "repo": "kwetza",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "johnny",
+          "description": "The GUI frontend to the John the Ripper password cracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1560649,
+            "language": "C++",
+            "last_commit": "2023-09-29T02:02:24Z",
+            "owner": "openwall",
+            "repo": "johnny",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weeman",
+          "description": "HTTP server for phishing in python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 84928128,
+            "language": "Python",
+            "last_commit": "2019-05-28T23:21:16Z",
+            "owner": "evait-security",
+            "repo": "weeman",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catphish",
+          "description": "CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71838499,
+            "language": "Ruby",
+            "last_commit": "2018-10-16T12:57:25Z",
+            "owner": "ring0lab",
+            "repo": "catphish",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyServer",
+          "description": "MyServer is your own localhost web server. you can setup PHP, Apache, Nginx and MySQL servers on your android devices or linux like Ubuntu etc. MyServer is Developed for android terminal like Termux or GNURoot Debian terminal..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135577437,
+            "language": "Python",
+            "last_commit": "2021-09-30T01:45:44Z",
+            "owner": "rajkumardusad",
+            "repo": "MyServer",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Namechk",
+          "description": "Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136298474,
+            "language": "Shell",
+            "last_commit": "2021-03-23T19:18:08Z",
+            "owner": "GONZOsint",
+            "repo": "Namechk",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP-WebScarab",
+          "description": "OWASP WebScarab.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 379247,
+            "language": "Java",
+            "last_commit": "2021-08-13T18:20:59Z",
+            "owner": "OWASP",
+            "repo": "OWASP-WebScarab",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termux-sudo",
+          "description": "A bash script that provides sudo for Termux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 68747517,
+            "language": null,
+            "last_commit": "2018-06-05T05:13:09Z",
+            "owner": "st42",
+            "repo": "termux-sudo",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InSpy",
+          "description": "A python based LinkedIn enumeration tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51708138,
+            "language": "Python",
+            "last_commit": "2023-07-11T03:16:28Z",
+            "owner": "jobroche",
+            "repo": "InSpy",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiDense",
+          "description": "🍓📡🍍Monitor illegal wireless network activities. (Fake Access Points), (WiFi Threats: KARMA Attacks, WiFi Pineapple, Similar SSID, OPN Network Density etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114464604,
+            "language": "Python",
+            "last_commit": "2020-02-01T10:07:42Z",
+            "owner": "WiPi-Hunter",
+            "repo": "PiDense",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TekDefense-Automater",
+          "description": "Automater - IP URL and MD5 OSINT Analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14321138,
+            "language": "Python",
+            "last_commit": "2024-08-13T23:50:35Z",
+            "owner": "1aN0rmus",
+            "repo": "TekDefense-Automater",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kalibrate-rtl",
+          "description": "fork of http://thre.at/kalibrate/ for use with rtl-sdr devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6118427,
+            "language": "C++",
+            "last_commit": "2023-08-15T08:47:42Z",
+            "owner": "steve-m",
+            "repo": "kalibrate-rtl",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pybelt",
+          "description": "The hackers tool belt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78139455,
+            "language": "Python",
+            "last_commit": "2018-08-06T14:07:07Z",
+            "owner": "Ekultek",
+            "repo": "Pybelt",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "txtool",
+          "description": "an easy pentesting tool..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120465503,
+            "language": "Python",
+            "last_commit": "2022-05-04T13:10:03Z",
+            "owner": "kuburan",
+            "repo": "txtool",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maskprocessor",
+          "description": "High-Performance word generator with a per-position configureable charset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30539754,
+            "language": "C",
+            "last_commit": "2022-06-20T08:24:11Z",
+            "owner": "hashcat",
+            "repo": "maskprocessor",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crips",
+          "description": "IP Tools To quickly get information about IP Address's, Web Pages and DNS records..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114044273,
+            "language": "Python",
+            "last_commit": "2021-02-21T18:03:07Z",
+            "owner": "Manisso",
+            "repo": "Crips",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberScan",
+          "description": "CyberScan: Network's Forensics ToolKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83974768,
+            "language": "Python",
+            "last_commit": "2026-04-23T12:14:37Z",
+            "owner": "medbenali",
+            "repo": "CyberScan",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpwn3r",
+          "description": "WebPwn3r - Web Applications Security Scanner..]([",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18736985,
+            "language": "Python",
+            "last_commit": "2021-12-09T21:20:53Z",
+            "owner": "zigoo0",
+            "repo": "webpwn3r",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netattack2",
+          "description": "An advanced network scan and attack script based on GUI. 2nd version of no-GUI netattack. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90194386,
+            "language": "Python",
+            "last_commit": "2018-01-31T19:44:00Z",
+            "owner": "chrizator",
+            "repo": "netattack2",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "credmap",
+          "description": "The Credential Mapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46081376,
+            "language": "Python",
+            "last_commit": "2017-12-01T17:27:32Z",
+            "owner": "lightos",
+            "repo": "credmap",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlmate",
+          "description": "A friend of SQLmap which will do what you always expected from SQLmap..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 107591982,
+            "language": "Python",
+            "last_commit": "2019-05-05T15:53:06Z",
+            "owner": "s0md3v",
+            "repo": "sqlmate",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlmate",
+          "description": "A friend of SQLmap which will do what you always expected from SQLmap..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 107591982,
+            "language": "Python",
+            "last_commit": "2019-05-05T15:53:06Z",
+            "owner": "s0md3v",
+            "repo": "sqlmate",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httptunnel",
+          "description": "Bidirectional data stream tunnelled in HTTP requests..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5163168,
+            "language": "C",
+            "last_commit": "2023-05-08T07:03:52Z",
+            "owner": "larsbrinkhoff",
+            "repo": "httptunnel",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnockMail",
+          "description": "Verify if email exists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92765374,
+            "language": "Python",
+            "last_commit": "2021-12-31T20:43:48Z",
+            "owner": "4w4k3",
+            "repo": "KnockMail",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSXS",
+          "description": "Damn Small XSS Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2711116,
+            "language": "Python",
+            "last_commit": "2026-08-20T08:59:16Z",
+            "owner": "stamparm",
+            "repo": "DSXS",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netdiscover",
+          "description": "netdiscover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8957117,
+            "language": "C",
+            "last_commit": "2022-10-12T12:29:53Z",
+            "owner": "alexxy",
+            "repo": "netdiscover",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snitch",
+          "description": "information gathering via dorks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38835809,
+            "language": "Python",
+            "last_commit": "2022-04-19T20:46:40Z",
+            "owner": "Smaash",
+            "repo": "snitch",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoPixieWps",
+          "description": "Automated pixieWps python script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33457497,
+            "language": "Python",
+            "last_commit": "2019-12-20T03:30:41Z",
+            "owner": "nxxxu",
+            "repo": "AutoPixieWps",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghost-phisher",
+          "description": "Automatically exported from code.google.com/p/ghost-phisher.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 32723796,
+            "language": "Python",
+            "last_commit": "2020-05-04T02:06:34Z",
+            "owner": "savio-code",
+            "repo": "ghost-phisher",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Black-Hydra",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105772532,
+            "language": "Shell",
+            "last_commit": "2020-07-23T11:15:06Z",
+            "owner": "Gameye98",
+            "repo": "Black-Hydra",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LALIN",
+          "description": "this script automatically install any package for pentest with uptodate tools , and lazy command for run the tools like lazynmap , install another and update to new #actually for lazy people hahaha #and Lalin is remake the lazykali with fixed bugs , added new features and uptodate tools . It's compatible with the latest release of Kali (Rolling).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 60832292,
+            "language": "Shell",
+            "last_commit": "2017-04-13T13:47:21Z",
+            "owner": "screetsec",
+            "repo": "LALIN",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plecost",
+          "description": "Plecost - Wordpress finger printer Tool .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17839039,
+            "language": "Python",
+            "last_commit": "2026-08-05T10:17:35Z",
+            "owner": "Plecost",
+            "repo": "plecost",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifresti",
+          "description": "Find your wireless network password in Windows , Linux and Mac OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40907863,
+            "language": "Python",
+            "last_commit": "2020-11-05T17:14:32Z",
+            "owner": "LionSec",
+            "repo": "wifresti",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angryFuzzer",
+          "description": "Tools for information gathering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93109681,
+            "language": "HTML",
+            "last_commit": "2024-05-20T06:47:29Z",
+            "owner": "ihebski",
+            "repo": "angryFuzzer",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hakkuframework",
+          "description": "Hakku Framework penetration testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60601380,
+            "language": "Python",
+            "last_commit": "2021-10-17T12:47:19Z",
+            "owner": "4shadoww",
+            "repo": "hakkuframework",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DHCPig",
+          "description": "DHCP exhaustion script written in python using scapy network library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3702696,
+            "language": "Python",
+            "last_commit": "2026-08-09T15:59:52Z",
+            "owner": "kamorin",
+            "repo": "DHCPig",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shimit",
+          "description": "A tool that implements the Golden SAML attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109871647,
+            "language": "Python",
+            "last_commit": "2018-10-15T21:27:38Z",
+            "owner": "cyberark",
+            "repo": "shimit",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torshammer",
+          "description": "Tor's hammer. Slow post DDOS tool written in python..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3416414,
+            "language": null,
+            "last_commit": "2022-04-23T13:47:42Z",
+            "owner": "dotfighter",
+            "repo": "torshammer",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eternal_scanner",
+          "description": "An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97406900,
+            "language": "Shell",
+            "last_commit": "2024-07-31T13:54:45Z",
+            "owner": "peterpt",
+            "repo": "eternal_scanner",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websploit",
+          "description": "Websploit is an advanced MITM framework..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106024616,
+            "language": "Python",
+            "last_commit": "2017-11-11T06:20:07Z",
+            "owner": "The404Hacking",
+            "repo": "websploit",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ridenum",
+          "description": "Rid_enum is a null session RID cycle attack for brute forcing domain controllers..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8660006,
+            "language": "Python",
+            "last_commit": "2024-07-28T12:31:06Z",
+            "owner": "trustedsec",
+            "repo": "ridenum",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "santet-online",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126193638,
+            "language": "Python",
+            "last_commit": "2020-10-16T05:34:57Z",
+            "owner": "Gameye98",
+            "repo": "santet-online",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termux-fedora",
+          "description": "A script to install a Fedora chroot into Termux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68368509,
+            "language": "Shell",
+            "last_commit": "2024-02-25T11:38:01Z",
+            "owner": "nmilosev",
+            "repo": "termux-fedora",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trojanizer",
+          "description": "Trojanize your payload - WinRAR (SFX) automatization - under Linux distros.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114945939,
+            "language": "Shell",
+            "last_commit": "2018-02-28T01:38:01Z",
+            "owner": "r00t-3xp10it",
+            "repo": "trojanizer",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meterpreter_Paranoid_Mode-SSL",
+          "description": "Meterpreter Paranoid Mode - SSL/TLS connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91186892,
+            "language": "Shell",
+            "last_commit": "2019-05-14T01:00:08Z",
+            "owner": "r00t-3xp10it",
+            "repo": "Meterpreter_Paranoid_Mode-SSL",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "creddump",
+          "description": "Automatically exported from code.google.com/p/creddump.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33460801,
+            "language": "Python",
+            "last_commit": "2019-05-08T14:26:25Z",
+            "owner": "moyix",
+            "repo": "creddump",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remot3d",
+          "description": "Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165829564,
+            "language": "Shell",
+            "last_commit": "2020-10-02T13:34:29Z",
+            "owner": "KeepWannabe",
+            "repo": "Remot3d",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umbrella",
+          "description": "A Phishing Dropper designed to Pentest..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83894455,
+            "language": "Python",
+            "last_commit": "2017-05-15T12:47:36Z",
+            "owner": "4w4k3",
+            "repo": "Umbrella",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termineter",
+          "description": "Smart Meter Security Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9649962,
+            "language": "Python",
+            "last_commit": "2026-03-17T16:27:20Z",
+            "owner": "rsmusllp",
+            "repo": "termineter",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezsploit",
+          "description": "Linux bash script automation for metasploit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51109931,
+            "language": "Shell",
+            "last_commit": "2019-07-11T20:26:51Z",
+            "owner": "rand0m1ze",
+            "repo": "ezsploit",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keimpx",
+          "description": "Check for valid credentials across a network over SMB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4799002,
+            "language": "Python",
+            "last_commit": "2024-01-05T17:59:48Z",
+            "owner": "nccgroup",
+            "repo": "keimpx",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shodanwave",
+          "description": "Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95827748,
+            "language": "Python",
+            "last_commit": "2020-11-15T09:47:59Z",
+            "owner": "jimywork",
+            "repo": "shodanwave",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Androspy",
+          "description": "Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156448506,
+            "language": "Shell",
+            "last_commit": "2018-11-14T18:42:42Z",
+            "owner": "Cyb0r9",
+            "repo": "Androspy",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlscan",
+          "description": "Quick SQL Scanner, Dorker, Webshell injector PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219335175,
+            "language": "PHP",
+            "last_commit": "2024-03-14T10:39:30Z",
+            "owner": "Cvar1984",
+            "repo": "sqlscan",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PwnSTAR",
+          "description": "PwnSTAR (Pwn SofT-Ap scRipt) - for all your fake-AP needs!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10029966,
+            "language": "Shell",
+            "last_commit": "2017-11-19T06:07:07Z",
+            "owner": "SilverFoxx",
+            "repo": "PwnSTAR",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasher",
+          "description": "Hash cracker with auto detect hash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127421000,
+            "language": "Python",
+            "last_commit": "2025-10-09T22:29:52Z",
+            "owner": "0xlousie",
+            "repo": "hasher",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyBozoCrack",
+          "description": "A silly & effective MD5 cracker in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2835978,
+            "language": "Python",
+            "last_commit": "2026-01-22T10:27:50Z",
+            "owner": "ikkebr",
+            "repo": "PyBozoCrack",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indonesian-wordlist",
+          "description": "Indonesian wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6977149,
+            "language": null,
+            "last_commit": "2016-02-19T04:14:06Z",
+            "owner": "geovedi",
+            "repo": "indonesian-wordlist",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djangohunter",
+          "description": "Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156589538,
+            "language": "Python",
+            "last_commit": "2019-01-01T18:11:01Z",
+            "owner": "jimywork",
+            "repo": "djangohunter",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zirikatu",
+          "description": "Fud Payload generator script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78859602,
+            "language": "Shell",
+            "last_commit": "2019-03-18T19:02:22Z",
+            "owner": "pasahitz",
+            "repo": "zirikatu",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "air-hammer",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70275366,
+            "language": "Python",
+            "last_commit": "2024-06-15T18:03:22Z",
+            "owner": "Wh1t3Rh1n0",
+            "repo": "air-hammer",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmitry",
+          "description": "DMitry (Deepmagic Information Gathering Tool).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74749744,
+            "language": "C",
+            "last_commit": "2026-03-27T11:58:55Z",
+            "owner": "jaygreig86",
+            "repo": "dmitry",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pybluez",
+          "description": "Bluetooth Python extension module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124684108,
+            "language": "Python",
+            "last_commit": "2020-05-14T09:54:04Z",
+            "owner": "karulis",
+            "repo": "pybluez",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BinGoo",
+          "description": "BinGoo! A Linux bash based Bing and Google Dorking Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4752370,
+            "language": "Shell",
+            "last_commit": "2018-10-06T00:41:19Z",
+            "owner": "Hood3dRob1n",
+            "repo": "BinGoo",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cowpatty",
+          "description": "coWPAtty: WPA2-PSK Cracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100307141,
+            "language": "C",
+            "last_commit": "2018-12-04T22:26:47Z",
+            "owner": "joswr1ght",
+            "repo": "cowpatty",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wfdroid-termux",
+          "description": "Android Terminal Web-Hacking Tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93939957,
+            "language": "Shell",
+            "last_commit": "2017-06-11T06:54:13Z",
+            "owner": "bytezcrew",
+            "repo": "wfdroid-termux",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netattack",
+          "description": "A simple python script to scan and attack wireless networks..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86337256,
+            "language": "Python",
+            "last_commit": "2017-05-03T21:48:52Z",
+            "owner": "chrizator",
+            "repo": "netattack",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LITEDDOS",
+          "description": "This Tool Is Supporting For DDOS Activities, The Way Is Typing Command : $ python2 islddos.py example: $python2 islddos.py 104.27.190.77 8080 100 IP target: 104.27.190.77 port: 8080 packet:100 Made In indonesia Indonesia Security Lite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121224925,
+            "language": "Python",
+            "last_commit": "2020-10-01T08:44:03Z",
+            "owner": "4L13199",
+            "repo": "LITEDDOS",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "killchain",
+          "description": "A unified console to perform the \"kill chain\" stages of attacks..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38057347,
+            "language": "Python",
+            "last_commit": "2023-07-15T15:54:16Z",
+            "owner": "ruped24",
+            "repo": "killchain",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LITESPAM",
+          "description": "Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Unlimited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123365598,
+            "language": "PHP",
+            "last_commit": "2020-10-15T17:16:19Z",
+            "owner": "4L13199",
+            "repo": "LITESPAM",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "admin-panel-finder",
+          "description": "A Python Script to find admin panel of a site.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13967049,
+            "language": "Python",
+            "last_commit": "2022-07-05T17:27:19Z",
+            "owner": "bdblackhat",
+            "repo": "admin-panel-finder",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoblinWordGenerator",
+          "description": "Python wordlist generator .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 135355288,
+            "language": "Python",
+            "last_commit": "2022-04-26T13:05:29Z",
+            "owner": "UndeadSec",
+            "repo": "GoblinWordGenerator",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zerodoor",
+          "description": "A script written lazily for generating cross-platform backdoors on the go :) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94395055,
+            "language": "Python",
+            "last_commit": "2018-10-16T21:22:08Z",
+            "owner": "Souhardya",
+            "repo": "Zerodoor",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jboss-autopwn",
+          "description": "A JBoss script for obtaining remote shell access.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1452461,
+            "language": "Shell",
+            "last_commit": "2020-08-07T12:39:48Z",
+            "owner": "SpiderLabs",
+            "repo": "jboss-autopwn",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roxysploit",
+          "description": "A Hackers framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109988287,
+            "language": "Python",
+            "last_commit": "2017-11-02T11:20:56Z",
+            "owner": "andyvaikunth",
+            "repo": "roxysploit",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parsero",
+          "description": "Parsero | Robots.txt audit tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14859784,
+            "language": "Python",
+            "last_commit": "2017-09-01T21:23:27Z",
+            "owner": "behindthefirewalls",
+            "repo": "Parsero",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wreckuests",
+          "description": "Wreckuests — yet another one hard-hitting tool to run DDoS atacks with HTTP-flood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81249551,
+            "language": "Python",
+            "last_commit": "2021-05-18T06:11:36Z",
+            "owner": "abriginets",
+            "repo": "wreckuests",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrawlBox",
+          "description": "Easy way to brute-force web directory..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 122731707,
+            "language": "Python",
+            "last_commit": "2019-06-02T19:35:54Z",
+            "owner": "abaykan",
+            "repo": "CrawlBox",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clickjacking-Tester",
+          "description": "A python script designed to check if the website if vulnerable of clickjacking and create a poc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67067704,
+            "language": "Python",
+            "last_commit": "2020-09-05T05:21:13Z",
+            "owner": "D4Vinci",
+            "repo": "Clickjacking-Tester",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websploit",
+          "description": "websploit is an advanced MITM framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484382622,
+            "language": null,
+            "last_commit": "2022-04-22T09:59:14Z",
+            "owner": "websploit",
+            "repo": "websploit",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mfterm",
+          "description": "Terminal for working with Mifare Classic 1-4k Tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3166851,
+            "language": "C",
+            "last_commit": "2024-01-14T14:11:04Z",
+            "owner": "4ZM",
+            "repo": "mfterm",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipwn",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10855900,
+            "language": "Python",
+            "last_commit": "2023-06-30T22:20:08Z",
+            "owner": "altjx",
+            "repo": "ipwn",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifitap",
+          "description": "wifitap updated for BT5r3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7935006,
+            "language": "Python",
+            "last_commit": "2017-03-28T11:49:46Z",
+            "owner": "GDSSecurity",
+            "repo": "wifitap",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbd",
+          "description": "Durandal's Backdoor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3937120,
+            "language": "C",
+            "last_commit": "2023-06-18T11:47:17Z",
+            "owner": "gitdurandal",
+            "repo": "dbd",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrackOut",
+          "description": "Simple Python IP Tracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122873024,
+            "language": "Python",
+            "last_commit": "2018-02-25T21:04:40Z",
+            "owner": "abaykan",
+            "repo": "TrackOut",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bing-ip2hosts",
+          "description": "bingip2hosts is a Bing.com web scraper that discovers websites by IP address.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221939956,
+            "language": "Shell",
+            "last_commit": "2022-05-03T15:02:02Z",
+            "owner": "urbanadventurer",
+            "repo": "bing-ip2hosts",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D-TECT-1",
+          "description": "D-TECT - Pentesting the Modern Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142359629,
+            "language": "Python",
+            "last_commit": "2017-09-29T12:58:10Z",
+            "owner": "shawarkhanethicalhacker",
+            "repo": "D-TECT-1",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doork",
+          "description": "Passive Vulnerability Auditor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 49071440,
+            "language": "Python",
+            "last_commit": "2016-07-26T08:17:38Z",
+            "owner": "AeonDave",
+            "repo": "doork",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rang3r",
+          "description": "rang3r | Multi Thread IP + Port Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116707896,
+            "language": "Python",
+            "last_commit": "2023-10-28T07:10:25Z",
+            "owner": "floriankunushevci",
+            "repo": "rang3r",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shellstack",
+          "description": "A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94252762,
+            "language": "PHP",
+            "last_commit": "2023-02-20T16:55:04Z",
+            "owner": "Tuhinshubhra",
+            "repo": "shellstack",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sniffjoke",
+          "description": "a client-only layer of protection from the wiretap/sniff/IDS analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212559,
+            "language": "C++",
+            "last_commit": "2017-08-25T10:38:29Z",
+            "owner": "vecna",
+            "repo": "sniffjoke",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cookie-stealer",
+          "description": "Crappy cookie stealer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30508020,
+            "language": "PHP",
+            "last_commit": "2020-11-15T20:01:35Z",
+            "owner": "Xyl2k",
+            "repo": "Cookie-stealer",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodexp",
+          "description": "NodeXP - A Server Side Javascript Injection tool capable of detecting and exploiting Node.js vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145425698,
+            "language": "Python",
+            "last_commit": "2025-01-31T16:33:24Z",
+            "owner": "esmog",
+            "repo": "nodexp",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "braa",
+          "description": "Ultra-fast SNMPv1/v2 stack. Get/set/walk tens of thousands of hosts at once..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32977213,
+            "language": "C",
+            "last_commit": "2026-06-23T08:39:12Z",
+            "owner": "mteg",
+            "repo": "braa",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebXploiter",
+          "description": "WebXploiter - An OWASP Top 10 Security scanner !.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39934039,
+            "language": "HTML",
+            "last_commit": "2016-02-29T08:51:00Z",
+            "owner": "a0xnirudh",
+            "repo": "WebXploiter",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evil-create-framework",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120122030,
+            "language": "Python",
+            "last_commit": "2018-02-03T20:16:15Z",
+            "owner": "LOoLzeC",
+            "repo": "Evil-create-framework",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuckshitup",
+          "description": "php-cli vulnerability scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22237387,
+            "language": "PHP",
+            "last_commit": "2015-06-29T11:09:31Z",
+            "owner": "Smaash",
+            "repo": "fuckshitup",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hURL",
+          "description": "hexadecimal & URL encoder + decoder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1854158,
+            "language": "Perl",
+            "last_commit": "2017-09-28T11:37:23Z",
+            "owner": "fnord0",
+            "repo": "hURL",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doona",
+          "description": "Network based protocol fuzzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4189559,
+            "language": "Perl",
+            "last_commit": "2022-02-17T00:31:08Z",
+            "owner": "wireghoul",
+            "repo": "doona",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intrace",
+          "description": "Enumeration of IP hops using existing TCP connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34737023,
+            "language": "C",
+            "last_commit": "2022-10-31T21:26:41Z",
+            "owner": "robertswiecki",
+            "repo": "intrace",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple-Fuzzer",
+          "description": "Simple Fuzzer is a simple config-file driven block/mutation based fuzzing system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2489706,
+            "language": "C",
+            "last_commit": "2023-10-17T13:15:41Z",
+            "owner": "apconole",
+            "repo": "Simple-Fuzzer",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The-Eye",
+          "description": "Simple security surveillance script for linux distributions..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 72348238,
+            "language": "Go",
+            "last_commit": "2017-01-26T13:12:25Z",
+            "owner": "EgeBalci",
+            "repo": "The-Eye",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWScan",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125881515,
+            "language": "PHP",
+            "last_commit": "2022-01-19T17:23:34Z",
+            "owner": "Gameye98",
+            "repo": "OWScan",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giskismet",
+          "description": "giskismet – Wireless recon visualization tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66625018,
+            "language": "Perl",
+            "last_commit": "2016-08-26T07:09:55Z",
+            "owner": "xtr4nge",
+            "repo": "giskismet",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gloom-Framework",
+          "description": "Gloom-Framework :: Linux Penetration Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105813141,
+            "language": "Python",
+            "last_commit": "2017-10-04T20:08:46Z",
+            "owner": "StreetSec",
+            "repo": "Gloom-Framework",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termux-Styling-Shell-Script",
+          "description": "Unofficial Termux Styling [ Bash ].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121711361,
+            "language": "Shell",
+            "last_commit": "2018-02-16T12:25:21Z",
+            "owner": "BagazMukti",
+            "repo": "Termux-Styling-Shell-Script",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hash-generator",
+          "description": "beautiful hash generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130550041,
+            "language": "Python",
+            "last_commit": "2018-04-22T18:53:47Z",
+            "owner": "0xlousie",
+            "repo": "hash-generator",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secHub",
+          "description": "Python Security/Hacking Kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98269548,
+            "language": "Python",
+            "last_commit": "2019-11-10T21:23:14Z",
+            "owner": "cys3c",
+            "repo": "secHub",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cdpsnarf",
+          "description": "CDPSnarf is a network sniffer exclusively written to extract information from CDP (Cisco Discovery Protocol) packets. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893254,
+            "language": "C",
+            "last_commit": "2010-10-13T21:50:05Z",
+            "owner": "Zapotek",
+            "repo": "cdpsnarf",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deblaze",
+          "description": "Performs method enumeration and interrogation against flash remoting end points..",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1147289,
+            "language": "Python",
+            "last_commit": "2020-08-07T12:46:51Z",
+            "owner": "SpiderLabs",
+            "repo": "deblaze",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kadabra",
+          "description": "[DEPRECATED] Kadabra is my automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32947876,
+            "language": "C++",
+            "last_commit": "2019-10-07T00:46:25Z",
+            "owner": "D35m0nd142",
+            "repo": "Kadabra",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackbox",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70101718,
+            "language": "Python",
+            "last_commit": "2016-10-05T18:10:49Z",
+            "owner": "jothatron",
+            "repo": "blackbox",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xshell",
+          "description": "~ Shell Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ ☪ ~.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62206645,
+            "language": "Perl",
+            "last_commit": "2017-12-11T22:55:17Z",
+            "owner": "Manisso",
+            "repo": "Xshell",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fbvid",
+          "description": "Facebook Video Downloader (CLI) For Linux Systems Coded in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105651381,
+            "language": "PHP",
+            "last_commit": "2017-10-03T13:54:16Z",
+            "owner": "Tuhinshubhra",
+            "repo": "fbvid",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpscan",
+          "description": "website admin panel finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55941148,
+            "language": "Python",
+            "last_commit": "2020-12-29T07:23:15Z",
+            "owner": "SusmithKrishnan",
+            "repo": "cpscan",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xl-py",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132886648,
+            "language": "Python",
+            "last_commit": "2023-10-27T16:00:20Z",
+            "owner": "anggialberto",
+            "repo": "xl-py",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AstraNmap",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115005513,
+            "language": "Shell",
+            "last_commit": "2018-07-28T04:14:55Z",
+            "owner": "Gameye98",
+            "repo": "AstraNmap",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sslcaudit",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4106639,
+            "language": "C",
+            "last_commit": "2016-02-11T00:22:02Z",
+            "owner": "abbbe",
+            "repo": "sslcaudit",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xspy",
+          "description": "Record X11 keypress events to a log file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2108608,
+            "language": "C",
+            "last_commit": "2018-03-19T12:16:25Z",
+            "owner": "mnp",
+            "repo": "xspy",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AUXILE",
+          "description": "Auxile Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145783919,
+            "language": "Python",
+            "last_commit": "2020-10-01T07:40:02Z",
+            "owner": "0xlousie",
+            "repo": "AUXILE",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GINF",
+          "description": "Github information gathering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145050661,
+            "language": "PHP",
+            "last_commit": "2021-07-19T12:09:16Z",
+            "owner": "Gameye98",
+            "repo": "GINF",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spamchat",
+          "description": "Spam Chat Facebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144181433,
+            "language": null,
+            "last_commit": "2018-08-09T17:16:39Z",
+            "owner": "errorBrain",
+            "repo": "spamchat",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SH33LL",
+          "description": "SHELL SCANNER.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117747869,
+            "language": "Python",
+            "last_commit": "2019-04-11T05:09:24Z",
+            "owner": "LOoLzeC",
+            "repo": "SH33LL",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easymap",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 115892196,
+            "language": "PHP",
+            "last_commit": "2019-11-02T13:21:48Z",
+            "owner": "Cvar1984",
+            "repo": "Easymap",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExploitOnCLI",
+          "description": "Trying to be the best tool to search for exploits in the terminal..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94150479,
+            "language": "PHP",
+            "last_commit": "2022-10-23T07:51:31Z",
+            "owner": "r00tmars",
+            "repo": "ExploitOnCLI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleSearch-CLI",
+          "description": "Search anything on Google without captcha.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141754104,
+            "language": "PHP",
+            "last_commit": "2018-12-02T19:53:43Z",
+            "owner": "BroNils",
+            "repo": "GoogleSearch-CLI",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ecode",
+          "description": "Encode / Decode.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 120220366,
+            "language": "CSS",
+            "last_commit": "2019-12-30T06:31:38Z",
+            "owner": "Cvar1984",
+            "repo": "Ecode",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FaDe",
+          "description": "Fake Deface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147236262,
+            "language": "Python",
+            "last_commit": "2018-09-03T17:50:24Z",
+            "owner": "Gameye98",
+            "repo": "FaDe",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasherdotid",
+          "description": "Hasherdotid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140493168,
+            "language": "Python",
+            "last_commit": "2018-07-10T22:56:10Z",
+            "owner": "galauerscrew",
+            "repo": "hasherdotid",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shell-scan",
+          "description": "Look for a backdoor shell on the website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141090957,
+            "language": "Python",
+            "last_commit": "2018-07-17T07:44:58Z",
+            "owner": "Rhi7",
+            "repo": "shell-scan",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDosy",
+          "description": "Perform a Ddos attack with Threads (Educational purpose).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154378338,
+            "language": "Python",
+            "last_commit": "2018-10-23T18:39:34Z",
+            "owner": "Sanix-Darker",
+            "repo": "DDosy",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPL-SEARCH",
+          "description": "Search exploits in multiple exploit databases!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92116097,
+            "language": "PHP",
+            "last_commit": "2016-02-08T00:03:16Z",
+            "owner": "r00tmars",
+            "repo": "XPL-SEARCH",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WP-plugin-scanner",
+          "description": "A tool to list plugins installed on a wordpress powered website..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2639438,
+            "language": "Python",
+            "last_commit": "2024-06-20T18:31:57Z",
+            "owner": "mintobit",
+            "repo": "WP-plugin-scanner",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kojawafft",
+          "description": "newfft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141085249,
+            "language": "JavaScript",
+            "last_commit": "2018-07-16T04:17:41Z",
+            "owner": "sandalpenyok",
+            "repo": "kojawafft",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auxscan",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107976634,
+            "language": "Python",
+            "last_commit": "2018-09-16T13:45:40Z",
+            "owner": "Gameye98",
+            "repo": "Auxscan",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get",
+          "description": "Get is a simple script to retrieve an ip from hostname or vice-versa ..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105655386,
+            "language": "Shell",
+            "last_commit": "2018-04-19T22:17:37Z",
+            "owner": "peterpt",
+            "repo": "get",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hac",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 116804054,
+            "language": "PHP",
+            "last_commit": "2018-02-05T11:12:48Z",
+            "owner": "Cvar1984",
+            "repo": "Hac",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inther",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142053406,
+            "language": "Ruby",
+            "last_commit": "2018-08-20T15:21:39Z",
+            "owner": "Gameye98",
+            "repo": "inther",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nk26",
+          "description": "NKosec Encode, 2 side encode. change alphabet to numeric or back numeric to alphabet..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140029900,
+            "language": "PHP",
+            "last_commit": "2025-02-03T19:56:47Z",
+            "owner": "milio48",
+            "repo": "nk26",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBUPv2.0",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100110983,
+            "language": "Python",
+            "last_commit": "2017-08-12T13:50:28Z",
+            "owner": "Hendriyawan",
+            "repo": "FBUPv2.0",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termux-wordpresscan",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107117177,
+            "language": "Lua",
+            "last_commit": "2023-02-11T07:52:52Z",
+            "owner": "silverhat007",
+            "repo": "termux-wordpresscan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxystrike",
+          "description": "Automatically exported from code.google.com/p/proxystrike.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55233657,
+            "language": "Python",
+            "last_commit": "2016-04-01T13:18:12Z",
+            "owner": "qunxyz",
+            "repo": "proxystrike",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T16:38:06.176Z",
+    "last_updated": "2026-08-24T14:01:52.700Z",
     "original_repository": "may215/awesome-termux-hacking",
     "original_repository_id": 226867094,
     "original_repository_sha": "52f03810e937c3861ffd3af467f552f6a5b0cdc6",
