@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:12:01Z",
+            "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73037
+            "stars": 73039
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T09:33:08Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44792
+            "stars": 44794
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T15:35:59Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38254
+            "stars": 38255
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 47409672,
             "language": "C",
-            "last_commit": "2026-08-24T10:32:25Z",
+            "last_commit": "2026-08-24T14:11:50Z",
             "owner": "hashcat",
             "repo": "hashcat",
-            "stars": 26609
+            "stars": 26610
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19853
+            "stars": 19854
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T02:20:49Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17179
+            "stars": 17183
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16218
+            "stars": 16220
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T13:16:22Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15675
+            "stars": 15674
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15227
+            "stars": 15229
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14020
+            "stars": 14019
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-20T09:03:17Z",
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9735
+            "stars": 9736
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2024-06-20T19:04:00Z",
             "owner": "jofpin",
             "repo": "trape",
-            "stars": 8977
+            "stars": 8978
           }
         },
         {
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 14735429,
             "language": "C",
-            "last_commit": "2026-08-22T12:04:42Z",
+            "last_commit": "2026-08-24T16:00:15Z",
             "owner": "capstone-engine",
             "repo": "capstone",
             "stars": 8972
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-08T17:16:27Z",
             "owner": "v1s1t0r1sh3r3",
             "repo": "airgeddon",
-            "stars": 7941
+            "stars": 7942
           }
         },
         {
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 17578592,
             "language": "Python",
-            "last_commit": "2026-08-24T05:18:56Z",
+            "last_commit": "2026-08-24T15:51:28Z",
             "owner": "bleachbit",
             "repo": "bleachbit",
             "stars": 6680
@@ -660,7 +660,7 @@
             "last_commit": "2026-07-21T17:07:42Z",
             "owner": "FluxionNetwork",
             "repo": "fluxion",
-            "stars": 5907
+            "stars": 5908
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5866
+            "stars": 5867
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-24T07:25:47Z",
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5821
+            "stars": 5822
           }
         },
         {
@@ -792,7 +792,7 @@
             "archived": false,
             "id": 118424053,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:33:37Z",
+            "last_commit": "2026-08-24T15:18:49Z",
             "owner": "greenbone",
             "repo": "openvas-scanner",
             "stars": 4789
@@ -890,6 +890,21 @@
         },
         {
           "node_type": "item",
+          "title": "wifite",
+          "description": "No description provided",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3238349,
+            "language": "Python",
+            "last_commit": "2022-09-08T16:32:44Z",
+            "owner": "derv82",
+            "repo": "wifite",
+            "stars": 3651
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pydictor",
           "description": "A powerful and useful hacker dictionary builder for a brute-force attack.",
           "children": [],
@@ -905,21 +920,6 @@
         },
         {
           "node_type": "item",
-          "title": "wifite",
-          "description": "No description provided",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 3238349,
-            "language": "Python",
-            "last_commit": "2022-09-08T16:32:44Z",
-            "owner": "derv82",
-            "repo": "wifite",
-            "stars": 3650
-          }
-        },
-        {
-          "node_type": "item",
           "title": "weevely3",
           "description": "Weaponized web shell.",
           "children": [],
@@ -930,7 +930,7 @@
             "last_commit": "2025-10-01T12:01:49Z",
             "owner": "epinna",
             "repo": "weevely3",
-            "stars": 3531
+            "stars": 3532
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2024-01-25T16:41:09Z",
             "owner": "esc0rtd3w",
             "repo": "wifi-hacker",
-            "stars": 2798
+            "stars": 2799
           }
         },
         {
@@ -1590,7 +1590,7 @@
             "last_commit": "2026-04-11T07:55:17Z",
             "owner": "savio-code",
             "repo": "fern-wifi-cracker",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -1695,7 +1695,7 @@
             "last_commit": "2021-06-11T08:13:53Z",
             "owner": "twelvesec",
             "repo": "gasmask",
-            "stars": 1463
+            "stars": 1462
           }
         },
         {
@@ -2400,7 +2400,7 @@
             "last_commit": "2022-12-21T17:02:54Z",
             "owner": "1N3",
             "repo": "ReverseAPK",
-            "stars": 869
+            "stars": 870
           }
         },
         {
@@ -4853,7 +4853,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:52.700Z",
+    "last_updated": "2026-08-24T16:51:58.018Z",
     "original_repository": "may215/awesome-termux-hacking",
     "original_repository_id": 226867094,
     "original_repository_sha": "52f03810e937c3861ffd3af467f552f6a5b0cdc6",
